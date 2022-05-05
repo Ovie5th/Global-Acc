@@ -6,7 +6,7 @@ services:
             - 3307:3306
         environment:
             - MYSQL_DATABASE=movie_db
-            - MYSQL_USER=chiemerie
+            - MYSQL_USER=ovie5th
             - MYSQL_PASSWORD=mauFJcuf5dhRMQrjj
             - MYSQL_ROOT_PASSWORD=password
         
